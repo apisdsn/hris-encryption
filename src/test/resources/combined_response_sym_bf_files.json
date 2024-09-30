@@ -1,0 +1,194 @@
+[
+  {
+    "get_result": {
+      "metode_http": "get",
+      "metode_enkripsi": "symmetric",
+      "jumlah_data": 1,
+      "algoritma": "blowfish",
+      "response_time_get": "41 ms"
+    },
+    "insert_result": {
+      "metode_http": "insert",
+      "metode_enkripsi": "symmetric",
+      "response_time_insert": "177 ms",
+      "jumlah_data": 1,
+      "algoritma": "blowfish"
+    }
+  },
+  {
+    "get_result": {
+      "metode_http": "get",
+      "metode_enkripsi": "symmetric",
+      "jumlah_data": 10,
+      "algoritma": "blowfish",
+      "response_time_get": "61 ms"
+    },
+    "insert_result": {
+      "metode_http": "insert",
+      "metode_enkripsi": "symmetric",
+      "response_time_insert": "107 ms",
+      "jumlah_data": 10,
+      "algoritma": "blowfish"
+    }
+  },
+  {
+    "get_result": {
+      "metode_http": "get",
+      "metode_enkripsi": "symmetric",
+      "jumlah_data": 50,
+      "algoritma": "blowfish",
+      "response_time_get": "240 ms"
+    },
+    "insert_result": {
+      "metode_http": "insert",
+      "metode_enkripsi": "symmetric",
+      "response_time_insert": "501 ms",
+      "jumlah_data": 50,
+      "algoritma": "blowfish"
+    }
+  },
+  {
+    "get_result": {
+      "metode_http": "get",
+      "metode_enkripsi": "symmetric",
+      "jumlah_data": 100,
+      "algoritma": "blowfish",
+      "response_time_get": "436 ms"
+    },
+    "insert_result": {
+      "metode_http": "insert",
+      "metode_enkripsi": "symmetric",
+      "response_time_insert": "760 ms",
+      "jumlah_data": 100,
+      "algoritma": "blowfish"
+    }
+  },
+  {
+    "get_result": {
+      "metode_http": "get",
+      "metode_enkripsi": "symmetric",
+      "jumlah_data": 150,
+      "algoritma": "blowfish",
+      "response_time_get": "691 ms"
+    },
+    "insert_result": {
+      "metode_http": "insert",
+      "metode_enkripsi": "symmetric",
+      "response_time_insert": "1122 ms",
+      "jumlah_data": 150,
+      "algoritma": "blowfish"
+    }
+  },
+  {
+    "get_result": {
+      "metode_http": "get",
+      "metode_enkripsi": "symmetric",
+      "jumlah_data": 200,
+      "algoritma": "blowfish",
+      "response_time_get": "923 ms"
+    },
+    "insert_result": {
+      "metode_http": "insert",
+      "metode_enkripsi": "symmetric",
+      "response_time_insert": "1367 ms",
+      "jumlah_data": 200,
+      "algoritma": "blowfish"
+    }
+  },
+  {
+    "get_result": {
+      "metode_http": "get",
+      "metode_enkripsi": "symmetric",
+      "jumlah_data": 250,
+      "algoritma": "blowfish",
+      "response_time_get": "1079 ms"
+    },
+    "insert_result": {
+      "metode_http": "insert",
+      "metode_enkripsi": "symmetric",
+      "response_time_insert": "1666 ms",
+      "jumlah_data": 250,
+      "algoritma": "blowfish"
+    }
+  },
+  {
+    "get_result": {
+      "metode_http": "get",
+      "metode_enkripsi": "symmetric",
+      "jumlah_data": 300,
+      "algoritma": "blowfish",
+      "response_time_get": "1278 ms"
+    },
+    "insert_result": {
+      "metode_http": "insert",
+      "metode_enkripsi": "symmetric",
+      "response_time_insert": "1994 ms",
+      "jumlah_data": 300,
+      "algoritma": "blowfish"
+    }
+  },
+  {
+    "get_result": {
+      "metode_http": "get",
+      "metode_enkripsi": "symmetric",
+      "jumlah_data": 350,
+      "algoritma": "blowfish",
+      "response_time_get": "1508 ms"
+    },
+    "insert_result": {
+      "metode_http": "insert",
+      "metode_enkripsi": "symmetric",
+      "response_time_insert": "2217 ms",
+      "jumlah_data": 350,
+      "algoritma": "blowfish"
+    }
+  },
+  {
+    "get_result": {
+      "metode_http": "get",
+      "metode_enkripsi": "symmetric",
+      "jumlah_data": 400,
+      "algoritma": "blowfish",
+      "response_time_get": "1693 ms"
+    },
+    "insert_result": {
+      "metode_http": "insert",
+      "metode_enkripsi": "symmetric",
+      "response_time_insert": "2462 ms",
+      "jumlah_data": 400,
+      "algoritma": "blowfish"
+    }
+  },
+  {
+    "get_result": {
+      "metode_http": "get",
+      "metode_enkripsi": "symmetric",
+      "jumlah_data": 450,
+      "algoritma": "blowfish",
+      "response_time_get": "2053 ms"
+    },
+    "insert_result": {
+      "metode_http": "insert",
+      "metode_enkripsi": "symmetric",
+      "response_time_insert": "2701 ms",
+      "jumlah_data": 450,
+      "algoritma": "blowfish"
+    }
+  },
+  {
+    "get_result": {
+      "metode_http": "get",
+      "metode_enkripsi": "symmetric",
+      "jumlah_data": 500,
+      "algoritma": "blowfish",
+      "response_time_get": "2153 ms"
+    },
+    "insert_result": {
+      "metode_http": "insert",
+      "metode_enkripsi": "symmetric",
+      "response_time_insert": "3007 ms",
+      "jumlah_data": 500,
+      "algoritma": "blowfish"
+    }
+  }
+]

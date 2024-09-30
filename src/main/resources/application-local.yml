@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: hris
+  datasource:
+    url: jdbc:postgresql://localhost:5432/asymmetric
+    username: postgres
+    password: root
+    hikari:
+      driver-class-name: org.postgresql.Driver
+  jpa:
+    properties:
+      hibernate:
+        format_sql: true
+        show_sql: true
+
+logging:
+  level:
+    root: info
+    demo: debug
+    org:
+      springframework:
+        web: info
+        security: debug
+
+
+server:
+  port: 8080
+

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f99caae3-6d35-490a-a7b8-a544cdb85f9f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/apisdsn/hris-encryption.git",
+    "accountId": "caa008c9-dbd5-453d-b0f8-07a8d2c7cc00"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2mKbLu32c5yNjAw5dvqwSzTcTbA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.EmployeeControllerIntegrationTest.executor": "Run",
+    "JUnit.EmployeeControllerIntegrationTest.testGetAllEmployees.executor": "Run",
+    "JUnit.EmployeeControllerIntegrationTest.testInsert10Employees.executor": "Run",
+    "JUnit.EmployeeControllerIntegrationTest.testInsertBulkEmployees.executor": "Run",
+    "JUnit.EmployeeControllerIntegrationTest.testInsertBulkEmployeesAndGetAllEmployee.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.HrisApplication.executor": "Run",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "discord-application"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ],
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/": [
+      "PostgreSQL"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.EmployeeControllerIntegrationTest">
+    <configuration name="EmployeeControllerIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hris" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.services.hris.it.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.services.hris.it.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.services.hris.it.controller.EmployeeControllerIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HrisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hris" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.services.hris.HrisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EmployeeControllerIntegrationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f99caae3-6d35-490a-a7b8-a544cdb85f9f" name="Changes" comment="" />
+      <created>1726828167711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726828167711</updated>
+      <workItem from="1726828168789" duration="1036000" />
+      <workItem from="1726829218149" duration="245000" />
+      <workItem from="1726829490707" duration="39000" />
+      <workItem from="1726829560201" duration="2639000" />
+      <workItem from="1726832215871" duration="52809000" />
+      <workItem from="1727333516817" duration="11974000" />
+      <workItem from="1727351316668" duration="50693000" />
+      <workItem from="1727681357409" duration="997000" />
+    </task>
+    <servers />
+  </component>
+  <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
+    <option name="historyDtoById">
+      <map>
+        <entry key="d26b01">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="d26b01" />
+              <option name="initiateTms" value="1726832074082" />
+              <option name="request" value=" The file contains the following errors and warnings:&#10;- Interface 'EmployeeRepository' is never used for line &quot;public interface EmployeeRepository extends JpaRepository&lt;Employee, String&gt; {&quot;&#10;- ',', &lt;expression&gt;, &lt;join&gt;, FETCH, GROUP, HAVING, ORDER or WHERE expected, got '(' for line &quot;LATERAL decrypt_employee_data_sym_algo_aes(e.NIK, e.NPWP, e.alamat, e.NO_KK) AS d(decrypted_NIK, decrypted_NPWP, decrypted_alamat, decrypted_NO_KK)&quot;&#10;- 'WHERE' unexpected for line &quot;WHERE e.name = ?1;&quot;&quot;&quot;)&quot;&#10;- Method 'findEmployeeByName(java.lang.String)' is never used for line &quot;Employee findEmployeeByName (String name);&quot;" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Welcome to Machinet AI! To assist you further, please sign in to your account by clicking on this [sign in](https://plugin.machinet.net/#signin) link. &#10;&#10;Once you're signed in, I encourage you to subscribe to our service to access all the features of Machinet AI. You can do that by visiting our [subscribe](https://plugin.machinet.net/#pricing) page.&#10;&#10;### Instructions to Sign In:&#10;1. Press the 'Sign In' button at the left corner of the chat inside the IDE.&#10;2. You will be redirected to the Machinet website, where you can enter your email and password.&#10;3. If you don't have an account, click the 'Sign Up' button and fill out the registration form.&#10;&#10;### Instructions to Subscribe:&#10;1. Please choose a Pro or Max subscription at our website [here](https://plugin.machinet.net/#pricing).&#10;2. You can also opt for a Pro Trial subscription to test Machinet AI for 10 days.&#10;&#10;Once you are signed in and subscribed, I will be able to assist you with your code-related queries." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1726832143237" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/com/services/hris/repository/EmployeeRepository.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/com/services/hris/entity/Employee.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

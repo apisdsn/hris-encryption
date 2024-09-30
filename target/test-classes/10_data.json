@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Wilt Biasioli",
+    "gender": "Male",
+    "start_work": "2022-03-20",
+    "nip": 232722199,
+    "nik": 4823515821266473,
+    "npwp": 8427699759697849,
+    "no_kk": 5980512600508345,
+    "alamat": "54683 South Lane",
+    "grup": "Finance",
+    "id_atasan": 678191342
+  },
+  {
+    "name": "Hardy Brandts",
+    "gender": "Male",
+    "start_work": "2018-05-28",
+    "nip": 510311569,
+    "nik": 2115854438658698,
+    "npwp": 1339738197355397,
+    "no_kk": 8065925392194072,
+    "alamat": "32081 Bluestem Plaza",
+    "grup": "Finance",
+    "id_atasan": 234884573
+  },
+  {
+    "name": "Shane Bemand",
+    "gender": "Female",
+    "start_work": "2000-11-01",
+    "nip": 123854140,
+    "nik": 8274925379866473,
+    "npwp": 4423347190677441,
+    "no_kk": 7568753052953309,
+    "alamat": "9772 Lillian Center",
+    "grup": "Finance",
+    "id_atasan": 877272330
+  },
+  {
+    "name": "Clevie Challenor",
+    "gender": "Male",
+    "start_work": "2020-12-22",
+    "nip": 786152338,
+    "nik": 8160093604844042,
+    "npwp": 3626606796608095,
+    "no_kk": 4483766045268036,
+    "alamat": "11242 Mayfield Place",
+    "grup": "",
+    "id_atasan": 801220693
+  },
+  {
+    "name": "Nigel Hune",
+    "gender": "Male",
+    "start_work": "2020-07-05",
+    "nip": 875913913,
+    "nik": 3655300609989851,
+    "npwp": 6296851779321339,
+    "no_kk": 6057042939795414,
+    "alamat": "9649 Kensington Parkway",
+    "grup": "Finance",
+    "id_atasan": 773764920
+  },
+  {
+    "name": "Reg Bilam",
+    "gender": "Male",
+    "start_work": "2001-06-27",
+    "nip": 291325058,
+    "nik": 9471599172601366,
+    "npwp": 6662123132514877,
+    "no_kk": 7384512310163462,
+    "alamat": "554 Division Park",
+    "grup": "HR",
+    "id_atasan": 723061399
+  },
+  {
+    "name": "Adrian Screach",
+    "gender": "Male",
+    "start_work": "2000-04-05",
+    "nip": 699844997,
+    "nik": 1696309616966855,
+    "npwp": 5249348476793389,
+    "no_kk": 8964101740298533,
+    "alamat": "90 Spaight Alley",
+    "grup": "HR",
+    "id_atasan": 543626292
+  },
+  {
+    "name": "Jaclin Garaghan",
+    "gender": "Female",
+    "start_work": "2008-11-17",
+    "nip": 223159804,
+    "nik": 4742870752689469,
+    "npwp": 8542194359624837,
+    "no_kk": 8307331476635229,
+    "alamat": "5 South Hill",
+    "grup": "IT",
+    "id_atasan": 299334648
+  },
+  {
+    "name": "Michail Brunsden",
+    "gender": "Genderqueer",
+    "start_work": "2006-08-10",
+    "nip": 615442734,
+    "nik": 8160411068855500,
+    "npwp": 7937439103667848,
+    "no_kk": 6169440989529395,
+    "alamat": "30816 Clarendon Trail",
+    "grup": "IT",
+    "id_atasan": 991181748
+  },
+  {
+    "name": "Emmott Pycock",
+    "gender": "Male",
+    "start_work": "2016-02-21",
+    "nip": 635819602,
+    "nik": 5685842031227759,
+    "npwp": 8418261692788081,
+    "no_kk": 2363516544684212,
+    "alamat": "9185 Debra Circle",
+    "grup": "Finance",
+    "id_atasan": 863417793
+  }
+]

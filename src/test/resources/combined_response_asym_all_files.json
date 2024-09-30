@@ -1,0 +1,98 @@
+[
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 1, "algoritma": "blowfish", "response_time_get": "1796 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "132 ms", "jumlah_data": 1, "algoritma": "blowfish"}
+  },
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 10, "algoritma": "blowfish", "response_time_get": "17342 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "62 ms", "jumlah_data": 10, "algoritma": "blowfish"}
+  },
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 50, "algoritma": "blowfish", "response_time_get": "90144 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "271 ms", "jumlah_data": 50, "algoritma": "blowfish"}
+  },
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 100, "algoritma": "blowfish", "response_time_get": "220653 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "575 ms", "jumlah_data": 100, "algoritma": "blowfish"}
+  },
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 150, "algoritma": "blowfish", "response_time_get": "333116 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "787 ms", "jumlah_data": 150, "algoritma": "blowfish"}
+  },
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 200, "algoritma": "blowfish", "response_time_get": "443899 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "1000 ms", "jumlah_data": 200, "algoritma": "blowfish"}
+  },
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 250, "algoritma": "blowfish", "response_time_get": "555231 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "1163 ms", "jumlah_data": 250, "algoritma": "blowfish"}
+  },
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 300, "algoritma": "blowfish", "response_time_get": "665728 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "1454 ms", "jumlah_data": 300, "algoritma": "blowfish"}
+  },
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 350, "algoritma": "blowfish", "response_time_get": "776671 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "1576 ms", "jumlah_data": 350, "algoritma": "blowfish"}
+  },
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 400, "algoritma": "blowfish", "response_time_get": "887827 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "1659 ms", "jumlah_data": 400, "algoritma": "blowfish"}
+  },
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 450, "algoritma": "blowfish", "response_time_get": "998617 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "2119 ms", "jumlah_data": 450, "algoritma": "blowfish"}
+  },
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 500, "algoritma": "blowfish", "response_time_get": "1109920 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "1787 ms", "jumlah_data": 500, "algoritma": "blowfish"}
+  },
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 1, "algoritma": "aes256", "response_time_get": "1878 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "156 ms", "jumlah_data": 1, "algoritma": "aes256"}
+  },
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 10, "algoritma": "aes256", "response_time_get": "17550 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "82 ms", "jumlah_data": 10, "algoritma": "aes256"}
+  },
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 50, "algoritma": "aes256", "response_time_get": "86673 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "281 ms", "jumlah_data": 50, "algoritma": "aes256"}
+  },
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 100, "algoritma": "aes256", "response_time_get": "173241 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "567 ms", "jumlah_data": 100, "algoritma": "aes256"}
+  },
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 150, "algoritma": "aes256", "response_time_get": "277613 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "792 ms", "jumlah_data": 150, "algoritma": "aes256"}
+  },
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 200, "algoritma": "aes256", "response_time_get": "444736 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "1046 ms", "jumlah_data": 200, "algoritma": "aes256"}
+  },
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 250, "algoritma": "aes256", "response_time_get": "555652 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "1187 ms", "jumlah_data": 250, "algoritma": "aes256"}
+  },
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 300, "algoritma": "aes256", "response_time_get": "666831 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "1465 ms", "jumlah_data": 300, "algoritma": "aes256"}
+  },
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 350, "algoritma": "aes256", "response_time_get": "777785 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "1572 ms", "jumlah_data": 350, "algoritma": "aes256"}
+  },
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 400, "algoritma": "aes256", "response_time_get": "889021 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "1683 ms", "jumlah_data": 400, "algoritma": "aes256"}
+  },
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 450, "algoritma": "aes256", "response_time_get": "1001813 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "1865 ms", "jumlah_data": 450, "algoritma": "aes256"}
+  },
+  {
+    "get_result": {"metode_http": "get", "metode_enkripsi": "asymmetric", "jumlah_data": 500, "algoritma": "aes256", "response_time_get": "1110790 ms"},
+    "insert_result": {"metode_http": "insert", "metode_enkripsi": "asymmetric", "response_time_insert": "1966 ms", "jumlah_data": 500, "algoritma": "aes256"}
+  }
+]
